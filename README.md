@@ -40,3 +40,11 @@ The solution I have created adds a number of elements:
 - `m3_to_kwh()` - converts gas readings, in cubic meters, to kWh.
 - `process_sources()` - loops through energy sources and calculates the total £ amount and kWh for both electricity and gas for the calendar month.
 - Additional tests in order to check account looping and source logic is correct.
+
+## Usage
+
+The only requirement is Python 3
+
+### Testing
+
+To run the tests: `python3 -m unittest`
